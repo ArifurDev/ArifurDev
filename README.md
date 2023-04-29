@@ -24,8 +24,68 @@
 
 
 </p>
+<div class="BorderGrid-row">
+              <div class="BorderGrid-cell">
+                <h2 class="h4 mb-3">Languages</h2>
+<div class="mb-2">
+  <span data-view-component="true" class="Progress">
+    <span style="background-color:#563d7c !important;;width: 38.2%;" itemprop="keywords" aria-label="CSS 38.2" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#f1e05a !important;;width: 25.7%;" itemprop="keywords" aria-label="JavaScript 25.7" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#f7523f !important;;width: 17.3%;" itemprop="keywords" aria-label="Blade 17.3" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#4F5D95 !important;;width: 10.4%;" itemprop="keywords" aria-label="PHP 10.4" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#c6538c !important;;width: 8.4%;" itemprop="keywords" aria-label="SCSS 8.4" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+</span></div>
+<ul class="list-style-none">
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/Arifurrahmanrifat29112002/reporting/search?l=css" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#563d7c;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">CSS</span>
+          <span>38.2%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/Arifurrahmanrifat29112002/reporting/search?l=javascript" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#f1e05a;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">JavaScript</span>
+          <span>25.7%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/Arifurrahmanrifat29112002/reporting/search?l=blade" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#f7523f;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">Blade</span>
+          <span>17.3%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/Arifurrahmanrifat29112002/reporting/search?l=php" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#4F5D95;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">PHP</span>
+          <span>10.4%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/Arifurrahmanrifat29112002/reporting/search?l=scss" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#c6538c;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">SCSS</span>
+          <span>8.4%</span>
+        </a>
+    </li>
+</ul>
 
+              </div>
+            </div>
 
 </article>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg"><img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></a>
+
 
