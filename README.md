@@ -24,7 +24,7 @@ Languages and Tools:</h3>
 <a href="https://www.php.net/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="git" width="40" height="40" data-canonical-src="https://www.php.net/" style="max-width: 100%;"> </a>
 
 </a>  
-<a href="https://getbootstrap.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="git" width="40" height="40" data-canonical-src="https://getbootstrap.com/" style="max-width: 100%;"> </a>
+<a href="https://laravel.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="git" width="40" height="40" data-canonical-src="https://laravel.com/" style="max-width: 100%;"> </a>
 
 
 <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> 
