@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [single vendor ecommerce](https://github.com/Arifurrahmanrifat29112002/single_vendor_ecommerce)
 
-- 👨‍💻 All of my projects are available at [https://arifurrahmanrifat29112002.github.io/portfolio_ARR/](https://arifurrahmanrifat29112002.github.io/portfolio_ARR/)
+- 👨‍💻 All of my projects are available at [https://arifurrahmanrifat29112002.github.io/portfolio_ARR/]((https://arifurrahmanrifat.com/))
 
 - 💬 Ask me about **html,css,bootstrap,js(basic),php,laravel**
 
