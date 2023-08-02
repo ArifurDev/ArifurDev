@@ -1,4 +1,4 @@
-- 👋 Assalamu Alaikum, I’m @Arifurrahmanrifat29112002
+- 👋 Assalamu Alaikum
 
 
 
