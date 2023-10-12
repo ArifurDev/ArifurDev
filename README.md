@@ -2,7 +2,7 @@
 
 
 
-![ooooooo-1536x605]([https://user-images.githubusercontent.com/98427204/235291746-c2c4c204-87ef-4c9c-b2fc-ab5bb36fbb42.png](https://i0.wp.com/interactivesolutions.pk/wp-content/uploads/2022/05/Web-Development.jpg))
+
 
 <h1 align="center">Hi 👋, I'm Arifur Rahman Rifat</h1>
 
