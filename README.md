@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arifurrahmanrifat.com](https://arifurrahmanrifat.com/)
 
-- 💬 Ask me about **html,css,bootstrap,javascript(basic),php(basic),laravel(intermediate)**
+- 💬 Ask me about **html,css,bootstrap,javascript(basic),livewire(basic),php(basic),laravel(intermediate)**
 
 - 📫 How to reach me **arifurrahmanrifat72@gmail.com**
 
