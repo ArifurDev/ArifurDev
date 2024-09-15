@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [http://arifurdev.xyz](http://arifurdev.xyz/)
 - 🌱 I’m currently developing my Laravel skills.
 - 📫 How to reach me **arifurrahmanrifat72@gmail.com**
-- 💬 Ask me about **html,css,bootstrap,javascript(basic),livewire,php(basic),laravel(intermediate)**
+- 💬 Ask me about **html,css,bootstrap,javascript,livewire,php,laravel**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eW-UNU9g2_aTjYgfoPI0j8Zf8rl1gZ04/view?usp=sharing)
 
 ### Continuous Learning
