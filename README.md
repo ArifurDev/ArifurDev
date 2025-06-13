@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Arifur Rahman Rifat</h1>
-<h5 align="center">I'm Arifur Rahaman Rifat, a passionate Laravel Developer with a strong foundation in web development technologies. My preferred tools include HTML, CSS, Bootstrap, JavaScript, Livewire, PHP, Laravel, and REST APIs. I take pride in developing clean, beautiful, and user-friendly applications. I have completed a Diploma in Computer Science and Technology and am continuously expanding my skill set to keep up with emerging technologies. I am eager to contribute my expertise and enthusiasm to a dynamic development team.</h5>
+<h5 align="center">I'm Arifur Rahaman Rifat, a Laravel Developer with a strong grasp of PHP, Livewire, JavaScript, Bootstrap, and REST APIs. I focus on building clean, responsive, and user-friendly web applications. With a Diploma in Computer Science and a passion for learning, I’m always exploring new technologies to grow and deliver better solutions.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifurrahmanrifat29112002&label=Profile%20views&color=0e75b6&style=flat" alt="ArifurDev" /> </p>
 
