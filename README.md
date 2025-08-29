@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArifurDev" alt="ArifurDev" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [http://arifurdev.xyz](http://arifurdev.com/)
+- 👨‍💻 All of my projects are available at [http://arifurdev.com](http://arifurdev.com/)
 - 🌱 I’m currently developing my Laravel skills.
 - 📫 How to reach me **arifurrahmanrifat72@gmail.com**
 - 💬 Ask me about **html,css,bootstrap,javascript,livewire,php,laravel**
