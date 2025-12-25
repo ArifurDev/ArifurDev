@@ -1,9 +1,21 @@
-- 👋 Assalamu Alaikum
+👋 Assalamu Alaikum
+<h1 align="center">Hi, I'm Arifur Rahman Rifat</h1>
 
+<h4 align="center">
+Laravel Developer | Backend & API Specialist
+</h4>
 
+<p align="center">
+<strong>Laravel</strong> · <strong>REST APIs</strong> · <strong>Stripe Payments</strong> ·
+<strong>AWS</strong> (S3, EC2, CloudFront) · <strong>VPS Deployment</strong>
+</p>
 
-<h1 align="center">Hi 👋, I'm Arifur Rahman Rifat</h1>
-<h5 align="center">I'm Arifur Rahaman Rifat, a Laravel Developer with a strong grasp of PHP, Livewire, JavaScript, Bootstrap, and REST APIs. I focus on building clean, responsive, and user-friendly web applications. With a Diploma in Computer Science and a passion for learning, I’m always exploring new technologies to grow and deliver better solutions.</h5>
+<p align="center">
+I build scalable Laravel applications with secure payment integrations and cloud-based deployments.
+My focus is on clean architecture, performance optimization, and production-ready solutions.
+I continuously explore new technologies to improve and deliver high-quality software.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifurrahmanrifat29112002&label=Profile%20views&color=0e75b6&style=flat" alt="ArifurDev" /> </p>
 
