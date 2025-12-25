@@ -62,12 +62,13 @@ I believe in lifelong learning and continually update my skills to stay current 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifurdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">🤝 Connect With Me</h3>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/arifurdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Arifur%20Rahman%20Rifat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
 </div>
 
