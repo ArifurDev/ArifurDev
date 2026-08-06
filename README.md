@@ -33,7 +33,7 @@ I focus on writing clean, maintainable code and designing systems that work reli
 
 - 👨‍💻 All of my projects are available at [http://arifurdev.com](http://arifurdev.com/)
 - 🌱 I’m currently developing my Laravel skills.
-- 📫 How to reach me **arifurrahmanrifat72@gmail.com**
+- 📫 How to reach me **arifurdev72@gmail.com**
 - 💬 Ask me about **html,css,bootstrap,javascript,livewire,php,laravel**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X-h28tI1qSfV2KTzQINbg1Q8NN0VMRlQ/view?usp=sharing)
 
