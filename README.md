@@ -80,17 +80,56 @@ I've also mentored students in **PHP and Laravel**, covering MVC architecture, C
 
 ## 🚀 Featured Projects
 
-### 🕌 Masjid Management & Community Engagement Platform
-A Laravel platform for Islamic centers: prayer alerts, donations, events, ads and community engagement.
-**Highlights:** REST APIs for web + mobile · Stripe donation & payment modules · JWT auth · optimized dashboard queries · deployed on AWS EC2
-**Stack:** `Laravel` `PHP` `MySQL` `Stripe` `Twilio` `Firebase` `JWT` `AWS EC2`
-🔗 [Live demo](https://arifurdev.com)
+### 💰 1. YieldVault — FinTech Investment & Wallet Management API
 
-### 🗂️ Archival Document Management System (ADMS)
-A secure platform for digitizing and managing archives.
-**Highlights:** JWT auth · Amazon S3 storage with signed (temporary) URLs · advanced search & filtering · dynamic forms · bulk management · reusable REST APIs
-**Stack:** `Laravel` `PHP` `MySQL` `JWT` `AWS S3` `VPS`
-🔗 [Live demo](https://arifurdev.com)
+A Laravel-powered financial backend designed for investment management, multi-wallet operations, transaction tracking, automated ROI processing, and multi-level referral networking.
+
+**Key Features:**
+- Multi-wallet management and transaction ledger.
+- Investment packages and automated ROI processing.
+- Multi-level referral network and commission calculations.
+- JWT authentication with Email-based Two-Factor Authentication (2FA).
+- Secure OTP hashing, expiration, and temporary JWT verification.
+- KYC document submission and administrative review.
+- Role-Based Access Control (RBAC) and manager APIs.
+
+**Tech Stack:** `PHP` `Laravel 11` `MySQL` `JWT` `Sanctum` `Redis` `Firebase`
+
+🔗 **[GitHub Repository](https://github.com/ArifurDev/YieldVault)**
+
+---
+
+### 🕌 2. Masjid Management & Community Engagement Platform
+
+A comprehensive Laravel-based platform for Islamic centers, providing digital solutions for community engagement, prayer alerts, donations, events, advertisements, and payment management.
+
+**Key Features:**
+- RESTful APIs for web and mobile applications.
+- Prayer notifications and community engagement.
+- Stripe-powered donation and payment integration.
+- JWT authentication and secure API access.
+- Optimized dashboard queries and backend workflows.
+- Cloud deployment using AWS EC2.
+
+**Tech Stack:** `Laravel` `PHP` `MySQL` `Stripe` `Twilio` `Firebase` `JWT` `AWS EC2`
+
+📱 **[View on Google Play Store](https://play.google.com/store/apps/details?id=com.kabirumar.app&hl=en)**
+
+---
+
+### 🗂️ 3. Archival Document Management System (ADMS)
+
+A secure document management platform designed to digitize, organize, store, and manage archival records through a centralized system.
+
+**Key Features:**
+- Secure JWT-based authentication.
+- AWS S3 integration with temporary signed URLs.
+- Advanced document search and filtering.
+- Dynamic forms and document management.
+- Bulk document operations.
+- Reusable RESTful API architecture.
+
+**Tech Stack:** `Laravel` `PHP` `MySQL` `JWT` `AWS S3` `VPS`
 
 ---
 
