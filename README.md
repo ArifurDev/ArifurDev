@@ -2,7 +2,7 @@
 
 # Hi, I'm Arifur Rahman Rifat 👋
 
-### Backend Software Engineer · Laravel / PHP
+### Laravel Backend Developer | 2+ Years Experience
 
 **I build secure, scalable and production-ready backend systems: REST APIs, payment flows and cloud deployments.**
 
@@ -19,21 +19,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Software Engineer specializing in PHP and Laravel**, with **2+ years of production experience** building scalable web applications, RESTful APIs, and secure backend systems.
+I'm a **Laravel Backend Developer with 2+ years of experience** building scalable web applications, RESTful APIs, payment integrations, and secure backend systems.
 
  I work on production Laravel applications for multiple clients. My day-to-day includes:
 
-- 🔌 Designing REST APIs that power web and mobile apps
-- 🔐 Building JWT authentication and role-based access control
-- 💳 Integrating **Stripe** for one-time payments and recurring subscriptions
-- 🗄️ Designing MySQL schemas and optimizing slow queries
-- ☁️ Managing secure file storage with **AWS S3** (signed URLs) and deploying to **AWS EC2, CloudFront and VPS** with GitHub Actions CI/CD
+- 🔌 Designing RESTful APIs for web and mobile applications.
+- 🔐 Implementing JWT authentication, Laravel Sanctum, and Role-Based Access Control (RBAC).
+- 💳 Integrating Stripe for one-time payments and recurring subscriptions.
+- 🗄️ Designing MySQL database schemas and optimizing database queries.
+- ⚡ Working with Redis, Laravel Queues, and asynchronous background processing.
+- ☁️ Managing AWS S3 storage, EC2, CloudFront, and VPS infrastructure.
+- 🚀 Configuring production environments, server deployment, and maintenance.
+- 🔄 Implementing CI/CD workflows using GitHub Actions for automated testing and deployment.
 
 I care about clean, maintainable code and reliable systems, and I work closely with frontend developers, QA engineers and project managers to ship features that hold up in production.
 
 I've also mentored students in **PHP and Laravel**, covering MVC architecture, CRUD, debugging and real-world project workflows, which sharpened how I explain and review code.
 
-> 💼 **Open to Laravel / Backend Developer opportunities.** Let's connect: [arifurdev72@gmail.com](mailto:arifurdev72@gmail.com)
+> 💼 **Open to Laravel Backend Developer and Backend Software Engineer opportunities.** Let's connect: [arifurdev72@gmail.com](mailto:arifurdev72@gmail.com)
 
 ---
 
